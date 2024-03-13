@@ -33,11 +33,8 @@
 
 <h3>Board Schematic</h3>
 
-1. Design Schematic
-![alt text]()
-
-2. Our Schematic
-![alt text]()
+1. Our Schematic
+![alt text](https://github.com/MaulanaASetiawan/posttest2-praktikum-iot-unmul-2024/blob/main/Schematic.jpg)
 
 
 <h2>Link Video</h2>
