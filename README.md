@@ -26,7 +26,7 @@
   <li>ESP8266 (NodeMCU) x1</li>
   <li>Breadboard x1</li>
   <li>Piezo Buzzer x1</li>
-  <li>Kabel Jumper Male to Male x12</li>
+  <li>Kabel Jumper Male to Male x10</li>
   <li>Resistor x1</li>
   <li>LED x1</li>
 </ul>
