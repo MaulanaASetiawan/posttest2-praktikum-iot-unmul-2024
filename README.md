@@ -29,6 +29,7 @@
   <li>Kabel Jumper Male to Male x10</li>
   <li>Resistor x1</li>
   <li>LED x1</li>
+  <li>Button x3</li>
 </ul>
 
 <h3>Board Schematic</h3>
